@@ -2,12 +2,12 @@
 Las matemáticas son la puerta y la llave a la ciencia
 
 Me puedes encontrar en:
+![ClipWindowsGIF](https://github.com/user-attachments/assets/f288bacc-9247-42b1-a906-13f2b0b572df)
 
 
 🔭Linkedin :: www.linkedin.com/in/mercy-luz-chancayauri-canales-42821180
 
 🌱 Empleo :: Empresa de telecominicaciones.
-![ClipWindowsGIF](https://github.com/user-attachments/assets/f288bacc-9247-42b1-a906-13f2b0b572df)
 
 
 
