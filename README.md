@@ -7,7 +7,9 @@ Me puedes encontrar en:
 🔭Linkedin :: www.linkedin.com/in/mercy-luz-chancayauri-canales-42821180
 
 🌱 Empleo :: Empresa de telecominicaciones.
-![image](https://github.com/user-attachments/assets/52d5340d-57ae-452a-8c79-39b3dea44658)
+![ClipWindowsGIF](https://github.com/user-attachments/assets/f288bacc-9247-42b1-a906-13f2b0b572df)
+
+
 
 <!--
 **mercyluz/mercyluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
