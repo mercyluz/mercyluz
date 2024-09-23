@@ -1,8 +1,13 @@
 ### Hola  👋 🤔
 Las matemáticas son la puerta y la llave a la ciencia
+
 Me puedes encontrar en:
-🔭linkedin :: www.linkedin.com/in/mercy-luz-chancayauri-canales-42821180
-🌱 trabo:: Empresa de telecominicaciones.
+
+
+🔭Linkedin :: www.linkedin.com/in/mercy-luz-chancayauri-canales-42821180
+
+🌱 Empleo :: Empresa de telecominicaciones.
+![image](https://github.com/user-attachments/assets/52d5340d-57ae-452a-8c79-39b3dea44658)
 
 <!--
 **mercyluz/mercyluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
