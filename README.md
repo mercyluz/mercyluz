@@ -1,6 +1,6 @@
 ### Mercy Luz  👋 🤔
 
-💬Soy una persona una entusiasta y decidida, me gustan los retos actualmente me encuentro en este emocionante mundo de la programación.
+💬Soy una persona entusiasta y decidida, me gustan los retos actualmente me encuentro en este emocionante mundo de la programación.
 Me gusta mucho el trabajo en equipo.
 
 Me gusta mucho las matematicas y las herramientas que se utilizan para las predicciones
@@ -42,7 +42,7 @@ Conocimientos:
 # 📊 GitHub Stats:
 
 [![mercyluz GitHub stats](https://github-readme-stats.vercel.app/api?username=mercyluz)](https://github.com/mercyluz/github-readme-stats)<br/>
-![](https://github-readme-stats.vercel.app/api?username=mercyluz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mercyluz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mercyluz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
