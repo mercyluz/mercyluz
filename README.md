@@ -41,7 +41,7 @@ Conocimientos:
 
 # 📊 GitHub Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mercyluz)](https://github.com/anuraghazra/github-readme-stats)
+[![Mercyluz GitHub stats](https://github-readme-stats.vercel.app/api?username=Mercyluz)](https://github.com/mercyluz/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api?username=Mercy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mercy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=indiakka&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
