@@ -5,13 +5,13 @@ Me gusta mucho el trabajo en equipo.
 
 
 
+## ✏️ Formación
+- 📖 Estudiando el Grado Superior de Desarrollo de Aplicaciones Web
+- 🔭 Actualmente en el Bootcamp de Backend de Factoría F5
 
 
-
-
-
-
-🌱 Empleo :: Empresa de telecomunicaciones.
+## 🌱 Empleo 
+- 🔭 Empresa de telecomunicaciones.
 
 Conocimientos:
 
