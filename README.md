@@ -41,6 +41,8 @@ Conocimientos:
 
 [LinkedIn](https://www.linkedin.com/in/mercy-luz-chancayauri-canales-42821180)
 
+
+
 # 📊 GitHub Stats:
 
 [![mercyluz GitHub stats](https://github-readme-stats.vercel.app/api?username=mercyluz)](https://github.com/mercyluz/github-readme-stats)<br/>
