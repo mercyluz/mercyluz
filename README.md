@@ -1,4 +1,8 @@
 ### Mercy Luz  👋 🤔
+
+Soy una entusiasta de la tecnología y ahora en pleno viaje hacia el emocionante mundo de la programación.
+Me gusta mucho las matematicas y las herramientas que se utilizan para las predicciones
+
 Una frase "Las matemáticas son la puerta y la llave a la ciencia"
 
 
