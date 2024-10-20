@@ -40,8 +40,8 @@ Conocimientos:
 [LinkedIn](https://www.linkedin.com/in/mercy-luz-chancayauri-canales-42821180)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=indiakka&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=indiakka&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Mercy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mercy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=indiakka&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!--
