@@ -41,14 +41,15 @@ Conocimientos:
 
 # 📊 GitHub Stats:
 
-[![Mercyluz GitHub stats](https://github-readme-stats.vercel.app/api?username=Mercyluz)](https://github.com/mercyluz/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api?username=Mercy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mercy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=indiakka&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![mercyluz GitHub stats](https://github-readme-stats.vercel.app/api?username=mercyluz)](https://github.com/mercyluz/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=mercyluz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mercyluz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mercyluz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!--
 **mercyluz/mercyluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mercyluz&repo=github-readme-stats)](https://github.com/mercyluz/github-readme-stats)
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=mercyluz&repo=github-readme-stats)](https://github.com/mercyluz/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ..
