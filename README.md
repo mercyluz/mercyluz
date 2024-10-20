@@ -3,8 +3,7 @@
 💬Soy una persona entusiasta y decidida, me gustan los retos actualmente me encuentro en este emocionante mundo de la programación.
 Me gusta mucho el trabajo en equipo.
 
-Me gusta mucho las matematicas y las herramientas que se utilizan para las predicciones
-Una frase "Las matemáticas son la puerta y la llave a la ciencia"
+
 
 
 
@@ -26,7 +25,7 @@ Conocimientos:
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-
+<img src="https://camo.githubusercontent.com/81188dcd6495357257e015774a00860f5b2b52ac5ad3f8196765942f1fb6b1d9/68747470733a2f2f696d672e69636f6e73382e636f6d2f6f66666963656c2f34382f3030303030302f7068702d6c6f676f2e706e67">
 </div>
 
 ### Code editors, Environments and Frameworks
